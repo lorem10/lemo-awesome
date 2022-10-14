@@ -14,3 +14,5 @@
 ### nuxt/vue
 
 - [vee-validate](https://vee-validate.logaretm.com/)
+- [vue-fullscreen]()
+https://github.com/mirari/vue-fullscreen/
