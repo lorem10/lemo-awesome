@@ -13,6 +13,7 @@
 - [ohmyfetch](https://github.com/unjs/ohmyfetch)
 - [fusejs](https://fusejs.io/)
 - [lint-staged](https://github.com/okonet/lint-staged)
+- [millify](https://github.com/izolate/millify)
 
 ### nuxt/vue
 
