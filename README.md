@@ -11,6 +11,7 @@
 - [flicking](https://naver.github.io/egjs-flicking/)
 - [apexcharts](https://apexcharts.com/)
 - [ohmyfetch](https://github.com/unjs/ohmyfetch)
+- [fusejs](https://fusejs.io/)
 
 ### nuxt/vue
 
