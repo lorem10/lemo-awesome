@@ -10,9 +10,9 @@
 
 - [flicking](https://naver.github.io/egjs-flicking/)
 - [apexcharts](https://apexcharts.com/)
+- [ohmyfetch](https://github.com/unjs/ohmyfetch)
 
 ### nuxt/vue
 
 - [vee-validate](https://vee-validate.logaretm.com/)
-- [vue-fullscreen]()
-https://github.com/mirari/vue-fullscreen/
+- [vue-fullscreen](https://github.com/mirari/vue-fullscreen/)
