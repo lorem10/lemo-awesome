@@ -14,6 +14,7 @@
 - [fusejs](https://fusejs.io/)
 - [lint-staged](https://github.com/okonet/lint-staged)
 - [millify](https://github.com/izolate/millify)
+- [ufo](https://github.com/unjs/ufo)
 
 ### nuxt/vue
 
