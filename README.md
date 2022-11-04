@@ -22,3 +22,5 @@
 - [vue-fullscreen](https://github.com/mirari/vue-fullscreen/)
 - [v-tooltip](https://www.npmjs.com/package/v-tooltip) | [Floating Vue](https://floating-vue.starpad.dev/)
 - [vue-chartjs](https://vue-chartjs.org/guide/)
+- [vue-lazy-hydration](https://github.com/maoberlehner/vue-lazy-hydration)
+- [vue-plausible](https://github.com/moritzsternemann/vue-plausible#readme)
