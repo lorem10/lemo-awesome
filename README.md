@@ -20,3 +20,5 @@
 
 - [vee-validate](https://vee-validate.logaretm.com/)
 - [vue-fullscreen](https://github.com/mirari/vue-fullscreen/)
+- [v-tooltip](https://www.npmjs.com/package/v-tooltip) | [Floating Vue](https://floating-vue.starpad.dev/)
+- [vue-chartjs](https://vue-chartjs.org/guide/)
